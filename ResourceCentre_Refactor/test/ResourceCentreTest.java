@@ -31,6 +31,7 @@ public class ResourceCentreTest {
 	}
 
 	
+	
 	@Test
 	public void testAddCamcorder() {
 		// Item list is not null, so that can add a new item - boundary
